@@ -12,7 +12,7 @@ The two test items are both classified in the "green" class because theirs neare
 ## reader_etl.py
 Here is shown how to extract, transform and load (ETL) data from an file.
 
-## knn_main.py
+## knn_iris.py
 Here is shown the difference between metrics:
  - Manhattan Distance - Calculate the distance between real vectors using the sum of their absolute difference.
  - Euclidean Distance - Calculate the distance between real vectors using the sum of the squares of the differences between corresponding values.
